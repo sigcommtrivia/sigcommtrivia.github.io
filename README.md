@@ -1,4 +1,4 @@
-# Sigcomm 2021 Trivia
+
 Visit all [Sigcomm'21 social events](https://conferences.sigcomm.org/sigcomm/2021/social-events.html)
 
 We are excited to reveal that the first SIGCOMM trivia event will be held this year. Participate and learn exciting facts about Sigcomm, history and anecdotes, famous people, revolutionary papers, and more.
