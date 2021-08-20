@@ -45,6 +45,6 @@ PS: You will only see the questions via zoom and not on your phone.
 Coming soon...
 
 ### Organizers
-Ish Jain [ikjain@eng.ucsd.edu]
-Di Wu
-Ding Zhang
+- Ish Jain [ikjain@eng.ucsd.edu]
+- Di Wu
+- Ding Zhang
