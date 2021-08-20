@@ -9,7 +9,7 @@ Come and have fun with us!
 
 ### When and where
 
-* Trivia Date: Wednesday, August 26, 2021
+* Trivia Date: Thursday, August 26, 2021
 * Trivia Time: 12:28PM - 12:45PM ET (9:28AM - 9:45AM PT)
 * Trivia Location: Sigcomm Gather.town Auditorium 
 * Trivia platform: Join [Kahoot.it](https://kahoot.it) (Pin will be announced during the event)
