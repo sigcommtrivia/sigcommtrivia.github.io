@@ -6,6 +6,9 @@ We are excited to reveal that the first SIGCOMM trivia event will be held this y
 
 Come and have fun with us! 
 
+## Watch the Trivia
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4f_mDMqbOs?start=272" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Event Details
 
 ### When and where
@@ -42,10 +45,10 @@ Your answers will be collected via Kahoot.it running on your phone.
 
 PS: You will only see the questions via zoom and not on your phone. 
 
-### Winners
-Coming soon...
+### Winner
+Aditya Akella (UW Madison)
 
 ### Organizers
-- Ish Jain [ikjain@eng.ucsd.edu]
+- Ish Jain [ikjain@eng.ucsd.edu] (Moderator)
 - Di Wu
 - Ding Zhang
